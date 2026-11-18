@@ -25,7 +25,7 @@ At the end of this lesson, learners should be able to:
 
 ### Recordings
 
-N/A.
+- [Recordign from RSC8, October 2026](https://youtu.be/qz3JSkCon3M?si=IBWxP97mea9sIX-h)
 
 
 ## Acknowledgements
